@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'acumulador-angular Cartagena Bolivar';
+  title = 'Acumulador-angular Cartagena Bolivar';
 }
